@@ -7,9 +7,9 @@
 
 ### 필수 문제
 - [시각(브론즈2)](https://www.acmicpc.net/problem/18312 "백준")
-- [문자열 재정렬(실버5)](https://www.acmicpc.net/problem/1181 "백준")
+- [단어 정렬(실버5)](https://www.acmicpc.net/problem/1181 "백준")
 - [치킨 배달(골드5)](https://www.acmicpc.net/problem/15686 "백준")
-- [뱀(골드5)](https://www.acmicpc.net/problem/12845 "백준")
+- [뱀(골드5)](https://www.acmicpc.net/problem/3190 "백준")
 
 
 ### 선택 문제

@@ -2,14 +2,14 @@
 
 ### 개념 참조
 - [나동빈  BFS](https://m.blog.naver.com/PostView.naver?blogId=ndb796&logNo=221230944971&referrerCode=0&searchKeyword=bfs "나동빈 블로그")
-- [나동핀 DFS](https://m.blog.naver.com/PostView.naver?blogId=ndb796&logNo=221230945092&referrerCode=0&searchKeyword=dfs "나동빈 블로그")
+- [나동빈 DFS](https://m.blog.naver.com/PostView.naver?blogId=ndb796&logNo=221230945092&referrerCode=0&searchKeyword=dfs "나동빈 블로그")
 
 
 ### 필수 문제
 - [DFS와 BFS(실버2,DFS와 BFS 두개다 구현해야함)](https://www.acmicpc.net/problem/1260 "백준")
 - [괄호 변환(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60058 "프로그래머스")
 - [인구이동(골드5)](https://www.acmicpc.net/problem/16234 "백준")
-- [숨바꼭질2(골드5)](https://programmers.co.kr/learn/courses/30/lessons/42891?language=java "프로그래머스")
+- [숨바꼭질2(골드5)](https://www.acmicpc.net/problem/12851 "프로그래머스")
 
 
 ### 선택 문제

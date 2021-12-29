@@ -6,20 +6,20 @@
 - 구현 알고리즘은 메모리 제약에 주의해야 한다.
 
 ### 필수 문제
-1. [시각(브론즈2)](https://www.acmicpc.net/problem/18312 "백준")
-2. [문자열 재정렬(실버5)](https://www.acmicpc.net/problem/1181 "백준")
-3. [치킨 배달(골드5)](https://www.acmicpc.net/problem/15686 "백준")
-4. [뱀(골드5)](https://www.acmicpc.net/problem/12845 "백준")
+- [시각(브론즈2)](https://www.acmicpc.net/problem/18312 "백준")
+- [문자열 재정렬(실버5)](https://www.acmicpc.net/problem/1181 "백준")
+- [치킨 배달(골드5)](https://www.acmicpc.net/problem/15686 "백준")
+- [뱀(골드5)](https://www.acmicpc.net/problem/12845 "백준")
 
 
 ### 선택 문제
-1. [외벽점검(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60062?language=java "프로그래머스")
-2. [문자열 압축(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60057?language=java "프로그래머스")
+- [외벽점검(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60062?language=java "프로그래머스")
+- [문자열 압축(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60057?language=java "프로그래머스")
 
 
 ### 더 풀고 싶을때
-1. [럭키 스트레이트(브론즈2)](https://www.acmicpc.net/problem/18406 "백준")
-2. [자물쇠와 열쇠(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60059 "프로그래머스")
-3. [기둥과 보 설치(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60061 "프로그래머스")
-4. [외벽 점검(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60062 "프로그래머스")
+- [럭키 스트레이트(브론즈2)](https://www.acmicpc.net/problem/18406 "백준")
+- [자물쇠와 열쇠(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60059 "프로그래머스")
+- [기둥과 보 설치(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60061 "프로그래머스")
+- [외벽 점검(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60062 "프로그래머스")
 

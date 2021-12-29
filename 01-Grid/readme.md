@@ -19,3 +19,5 @@
 1. [DNA](https://www.acmicpc.net/problem/1969 "백준")
 1. [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700 "백준")
 
+
+> 고통에 시작이다..

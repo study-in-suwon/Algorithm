@@ -2,9 +2,9 @@
 
 ### 개념 참조
 
-- [그리디 알고리즘 설명](https://m.blog.naver.com/PostView.naver?blogId=ndb796&logNo=221242106787&proxyReferer=https:%2F%2Fwww.google.com%2F "나동빈 블로그")
+- [나동빈 그리디 알고리즘](https://m.blog.naver.com/PostView.naver?blogId=ndb796&logNo=221242106787&proxyReferer=https:%2F%2Fwww.google.com%2F "나동빈 블로그")
 
-- [그리디 알고리즘 설명](https://m.blog.naver.com/kks227/220775134486 "라이 블로그")
+- [라이 그리디 알고리즘](https://m.blog.naver.com/kks227/220775134486 "라이 블로그")
 
 
 ### 필수 문제
@@ -20,4 +20,4 @@
 1. [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700 "백준")
 
 
-> 고통에 시작이다..
+> 시작쓰..

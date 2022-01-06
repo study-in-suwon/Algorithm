@@ -4,7 +4,7 @@
 1. 카드의 최대값을 찾아 나머지 값들을 각각 더해 최대 가질 수 있는 골드를 찾음
 
 
-### 구현 코드 1
+### 구현 코드
 ```java
 import java.util.ArrayList;
 import java.util.List;

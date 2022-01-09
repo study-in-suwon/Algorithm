@@ -7,8 +7,8 @@
 
 ### 필수 문제
 - [럭키 스트레이트(브론즈2)](https://www.acmicpc.net/problem/18406 "백준")
+- [시각(브론즈2)](https://www.acmicpc.net/problem/18312 "백준")
 - [문자열 압축(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60057?language=java "프로그래머스")
-- [퇴사(실버3)](https://www.acmicpc.net/problem/18312 "백준")
 - [단어 정렬(실버5)](https://www.acmicpc.net/problem/1181 "백준")
 - [치킨 배달(골드5)](https://www.acmicpc.net/problem/15686 "백준")
 - [기둥과 보 설치(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60061 "프로그래머스")
@@ -22,4 +22,5 @@
 
 ### 더 풀고 싶을때
 - [자물쇠와 열쇠(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60059 "프로그래머스")
-- [시각(브론즈2)](https://www.acmicpc.net/problem/18312 "백준")
+- [퇴사(실버3)](https://www.acmicpc.net/problem/18312 "백준")
+

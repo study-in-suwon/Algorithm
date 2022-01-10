@@ -14,13 +14,8 @@
 - [기둥과 보 설치(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60061 "프로그래머스")
 
 
-### 선택 문제
+### 더 풀고 싶을때
 - [뱀(골드5)](https://www.acmicpc.net/problem/3190 "백준")
 - [외벽점검(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60062?language=java "프로그래머스")
-
-
-
-### 더 풀고 싶을때
 - [자물쇠와 열쇠(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60059 "프로그래머스")
 - [퇴사(실버3)](https://www.acmicpc.net/problem/18312 "백준")
-

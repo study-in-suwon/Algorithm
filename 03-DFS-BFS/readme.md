@@ -6,7 +6,7 @@
 
 
 ### 필수 문제
-- [미로탐색(실버1)](https://www.acmicpc.net/problem/1260 "백준")
+- [미로탐색(실버1)](https://www.acmicpc.net/problem/2178 "백준")
 - [DFS와 BFS(실버2,DFS와 BFS 두개다 구현해야함)](https://www.acmicpc.net/problem/1260 "백준")
 - [괄호 변환(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60058 "프로그래머스")
 - [인구이동(골드5)](https://www.acmicpc.net/problem/16234 "백준")

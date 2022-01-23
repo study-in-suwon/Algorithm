@@ -17,9 +17,6 @@
 - [실패율(카카오)](https://programmers.co.kr/learn/courses/30/lessons/42889 "프로그래머스")
 
 
-### 선택 문제
-
-
 ### 더 풀고 싶을때
 - [퇴사(실버3)](https://www.acmicpc.net/problem/14501 "백준")
 - [국영수(실버4)](https://www.acmicpc.net/problem/10825 "백준")
